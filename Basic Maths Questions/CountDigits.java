@@ -1,3 +1,5 @@
+// Q. Count Total No. of Digits in a Number given
+
 import java.util.Scanner;
 
 public class CountDigits {
