@@ -7,7 +7,7 @@ public class RotateANumber {
         int k=scn.nextInt();
         int count=0;
         int temp=n;
-        while(temp!=0){
+        while(temp!=0){         //to count the length of the number 
             temp /= 10;
             count++;
         }
