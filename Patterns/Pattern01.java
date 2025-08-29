@@ -14,3 +14,10 @@ public class Pattern01 {
     }
     
 }
+
+// output
+// *
+// **
+// ***
+// ****
+// *****
